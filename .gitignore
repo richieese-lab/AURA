@@ -1,0 +1,32 @@
+# Gradle / Android Studio
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Log crash JVM
+hs_err_pid*.log
+replay_pid*.log
+
+# Rahasia
+.env
+
+# Folder referensi modul praktikum (akan dihapus, bukan bagian aplikasi)
+Materi_PAPB_sham-main/
+Modul3/
+modul6-PAPB/
+modul7-PAPB/
+modul8-PAPB/
+modul9-PAPB/
+ProfilApp_245150201111041AhmadSyafiNurroyyan/
+test2/
+TugasPraktikum_Modul5_PAPB/
+TugasPraktikum1/
+TugasPraktikumBab2/
+TugasTambahan1/
